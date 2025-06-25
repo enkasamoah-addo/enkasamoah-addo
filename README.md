@@ -4,42 +4,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=Hi,%20I'm%20Kwabena%20👋&fontSize=48&fontColor=fff" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&color=232526&center=true&vCenter=true&width=800&lines=Software+Engineer;Crafting+impactful+software+solutions;Automating+the+boring;Always+curious+and+learning" alt="Typing SVG" />
 
-<div align="center">
-  <b>Software Engineer · Accra, Ghana</b>
-  <br>
-  <i>Building robust systems, automating the boring, and loving open source.</i>
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
+🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td><b>💼 Profession</b></td>
-    <td>Software Engineer</td>
-  </tr>
-  <tr>
-    <td><b>📍 Location</b></td>
-    <td>Accra, Ghana</td>
-  </tr>
-  <tr>
-    <td><b>🌟 Passion</b></td>
-    <td>Automation, Open-source, Robust Systems</td>
-  </tr>
-  <tr>
-    <td><b>🔒 Private Repos</b></td>
-    <td>Yeah, a lot! 😂</td>
-  </tr>
-</table>
+💼 **Profession:** Software Engineer  
+📍 **Location:** Accra, Ghana  
+🌱 **Passions:** Automation, Open-source, Building Robust Systems  
+🔒 **Secret Fact:** I might have a few (okay, a lot) private repos! 😂
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Tech Toolbox</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,html,css,tailwind,bootstrap,git,github,figma,photoshop" />
@@ -57,15 +40,13 @@
 
 <h2 align="center">🎧 Hobbies & Interests</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Gaming-181717?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photography-4A90E2?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Travel-FF9800?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-34ebc3?style=for-the-badge&logo=coursera&logoColor=white" />
-</div>
+- 🎵 **Music:** Discovering new genres and curating playlists for every mood.
+- 📷 **Photography:** Capturing moments and framing stories through my lens.
+- ✈️ **Travel:** Visiting new places, meeting new people, and collecting experiences.
+- 📚 **Lifelong Learning:** Constantly picking up new skills and staying curious.
 
 ---
+
 
 <h2 align="center">📊 My GitHub at a Glance</h2>
 
