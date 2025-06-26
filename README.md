@@ -4,14 +4,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=Hi,%20I'm%20Kwabena%20👋&fontSize=48&fontColor=fff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&color=232526&center=true&vCenter=true&width=800&lines=Software+Engineer;Crafting+impactful+software+solutions;Automating+the+boring;Always+curious+and+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1500&color=fff&center=true&vCenter=true&width=800&lines=Software+Engineer;Crafting+impactful+software+solutions;Automating+the+boring;Always+curious+and+learning" alt="Typing SVG" />
 
 </div>
 
 <br>
 
 <div align="left">
-🧑‍💻 About Me
+<h2 align="left">🧑‍💻 About Me</h2>
 
 💼 **Profession:** Software Engineer  
 📍 **Location:** Accra, Ghana  
@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,html,css,tailwind,bootstrap,git,github,figma,photoshop" />
@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">🎧 Hobbies & Interests</h2>
+<h2 align="left">🎧 Hobbies & Interests</h2>
 
 - 🎵 **Music:** Discovering new genres and curating playlists for every mood.
 - 📷 **Photography:** Capturing moments and framing stories through my lens.
@@ -48,7 +48,7 @@
 ---
 
 
-<h2 align="center">📊 My GitHub at a Glance</h2>
+<h2 align="left">📊 My GitHub at a Glance</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enkasamoah-addo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="left">🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:imebenezerasamoah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
